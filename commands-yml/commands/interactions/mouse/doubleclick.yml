@@ -1,5 +1,5 @@
 ---
-name: Click
+name: Double Click
 short_description: Double-clicks at the current mouse coordinates (set by moveto).
 
 example_usage:
